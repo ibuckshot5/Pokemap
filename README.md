@@ -19,8 +19,9 @@ Features
 ======
 * Fast, hash-efficient
 * Chaotic worker movements
-* Features Discord and Twitter notifications
+* Features built-in Discord and Twitter notifications
 * Easily customizable
+* Raid scanning support
 * Supports L30+ encounters
 
 Other Links
