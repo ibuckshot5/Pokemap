@@ -6,11 +6,10 @@ Install
 ```
 git clone https://github.com/ibuckshot5/Pokemap.git
 cd Pokemap
-npm install
 ```
 Configure your files, then use:
 ```
-npm start
+python pokemap.py
 ```
 to start the map.
 
@@ -19,6 +18,7 @@ to start the map.
 Features
 ======
 * Fast, hash-efficient
+* Chaotic worker movements
 * Features Discord and Twitter notifications
 * Easily customizable
 * Supports L30+ encounters
